@@ -1,0 +1,12 @@
+{
+  "name": "shiyun-api-check",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test:shiyun": "node scripts/test-shiyun.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
